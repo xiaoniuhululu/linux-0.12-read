@@ -1,5 +1,5 @@
 # linux-0.12-read
-Some thoughts and readings on Linux0.12
+Some thoughts and readings on Linux0.12 source code
 
 1. [聊聊x86计算机启动发生的事？](https://mp.weixin.qq.com/s/ou09SuSuKGUqr8_F68DoIQ)
 
@@ -22,6 +22,12 @@ Some thoughts and readings on Linux0.12
 10. [什么是系统调用机制？结合Linux0.12源码图解](https://mp.weixin.qq.com/s/3jcH43bC5rtyuPOQjuupOw)
 
 11. [tty是什么？聊聊linux0.12中tty与time的初始化](https://mp.weixin.qq.com/s/yFo3sXo4_2YxFzHpl87ZCg)
+    
+12. [linux0.12内核源码解读(12)-任务调度初始化sched_init](https://mp.weixin.qq.com/s/G0bOOfvE1-K7_qz4um5ppA)
+
+13. [在Linux0.12中如何创建进程？](https://mp.weixin.qq.com/s/NXdHeogaPblaIa1Ib8JExw)
+    
+14. [Linux0.12任务调度、休眠与唤醒](https://mp.weixin.qq.com/s/RgG2z3Fq0fJsG5BAzVKnsw)
 
 
-首发于公众号[小牛呼噜噜](https://chunjianbase.cn/xiaoniuhululu_gzh.png)
+欢迎关注 公众号[小牛呼噜噜](https://chunjianbase.cn/xiaoniuhululu_gzh.png)，更多硬核高质量文章等你！
